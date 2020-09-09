@@ -7,5 +7,3 @@ def parrot(squawk)
   
   
 end
-
-parrot
