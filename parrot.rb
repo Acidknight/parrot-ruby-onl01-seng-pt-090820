@@ -7,5 +7,4 @@ def parrot
   return "Squawk!"
 end
 
-parrot "phrase"
 
