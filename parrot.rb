@@ -4,7 +4,7 @@
 def parrot
   phrase = "Pretty bird!"
   puts "Squawk!"
-  return "Squawk!"
+  "Squawk!"
 end
 
 
